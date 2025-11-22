@@ -1,0 +1,212 @@
+[
+  {
+    "nome_ativo": "Ácido Glicólico",
+    "beneficios": "Esfoliação química para renovação celular, melhora a textura, brilho e aparência de poros.",
+    "tipo_produto": "AHA (Alfa-hidroxiácido)",
+    "tags_pele": [
+      "Anti-idade",
+      "Manchas",
+      "Poros Dilatados",
+      "Textura Irregular"
+    ],
+    "link_estudo": "https://pt.wikipedia.org/wiki/%C3%81cido_glic%C3%B3lico",
+    "uso": "Noturno (Obrigatório usar FPS de dia)"
+  },
+  {
+    "nome_ativo": "Niacinamida",
+    "beneficios": "Vitamina B3 multifuncional. Controla a oleosidade, reduz o tamanho dos poros, acalma a pele sensível e melhora a aparência de manchas.",
+    "tipo_produto": "Vitamina B3 / Antioxidante",
+    "tags_pele": [
+      "Oleosa",
+      "Acneica",
+      "Sensível",
+      "Manchas",
+      "Poros Dilatados"
+    ],
+    "link_estudo": "https://pt.wikipedia.org/wiki/Niacinamida",
+    "uso": "Diurno e Noturno"
+  },
+  {
+    "nome_ativo": "Ácido Hialurônico",
+    "beneficios": "Agente hidratante potente que atrai e retém água na pele, proporcionando hidratação profunda, preenchimento e redução de linhas finas por desidratação.",
+    "tipo_produto": "Umectante / Hidratante",
+    "tags_pele": [
+      "Todos os Tipos",
+      "Seca",
+      "Desidratada",
+      "Anti-idade"
+    ],
+    "link_estudo": "https://pt.wikipedia.org/wiki/%C3%81cido_hialur%C3%B4nico",
+    "uso": "Diurno e Noturno"
+  },
+  {
+    "nome_ativo": "Ácido Salicílico",
+    "beneficios": "BHA (Beta-hidroxiácido) lipossolúvel. Penetra nos poros, desobstruindo-os e atuando diretamente no combate à acne, cravos e oleosidade.",
+    "tipo_produto": "BHA (Beta-hidroxiácido)",
+    "tags_pele": [
+      "Acneica",
+      "Oleosa",
+      "Cravos",
+      "Espinhas"
+    ],
+    "link_estudo": "https://pt.wikipedia.org/wiki/%C3%81cido_salic%C3%ADlico",
+    "uso": "Diurno ou Noturno"
+  },
+  {
+    "nome_ativo": "Vitamina C",
+    "beneficios": "Potente antioxidante. Combate os radicais livres, previne o envelhecimento precoce, estimula a produção de colágeno e clareia manchas, promovendo luminosidade.",
+    "tipo_produto": "Antioxidante / Vitamina C",
+    "tags_pele": [
+      "Anti-idade",
+      "Manchas",
+      "Rugas",
+      "Falta de Brilho"
+    ],
+    "link_estudo": "https://pt.wikipedia.org/wiki/%C3%81cido_asc%C3%B3rbico",
+    "uso": "Diurno (Embaixo do FPS)"
+  },
+  {
+    "nome_ativo": "Retinol (ou Retinal)",
+    "beneficios": "Derivado da Vitamina A. Atua na renovação celular, estimula a produção de colágeno e elastina, sendo o ativo mais estudado para o tratamento de rugas e flacidez.",
+    "tipo_produto": "Retinoide / Vitamina A",
+    "tags_pele": [
+      "Anti-idade",
+      "Rugas",
+      "Firmeza",
+      "Flacidez"
+    ],
+    "link_estudo": "https://pt.wikipedia.org/wiki/Retinol",
+    "uso": "Noturno (Obrigatório usar FPS de dia)"
+  },
+  {
+    "nome_ativo": "Bakuchiol",
+    "beneficios": "Alternativa natural ao retinol, minimiza linhas finas, rugas e hiperpigmentação sem a irritação comum dos retinoides. Estimula a produção de colágeno e melhora a elasticidade da pele.",
+    "tipo_produto": "Retinol-like / Antioxidante",
+    "tags_pele": [
+      "Anti-idade",
+      "Sensível",
+      "Manchas",
+      "Normal"
+    ],
+    "link_estudo": "https://pt.wikipedia.org/wiki/Bakuchiol",
+    "uso": "Diurno e Noturno"
+  },
+  {
+    "nome_ativo": "Esqualano",
+    "beneficios": "Um lipídio emoliente idêntico ao da pele que hidrata profundamente, restaura a barreira cutânea e reduz a perda de água transepidérmica, deixando a pele macia e não comedogênica.",
+    "tipo_produto": "Emoliente / Hidratante",
+    "tags_pele": [
+      "Seca",
+      "Sensível",
+      "Barreira",
+      "Todos os Tipos"
+    ],
+    "link_estudo": "https://pt.wikipedia.org/wiki/Esqualeno",
+    "uso": "Diurno e Noturno"
+  },
+  {
+    "nome_ativo": "Pantenol (Pró-Vitamina B5)",
+    "beneficios": "Atua como um potente umectante e agente reparador. Acalma a pele irritada, acelera o processo de cicatrização e melhora significativamente a hidratação e elasticidade da pele.",
+    "tipo_produto": "Umectante / Calmante",
+    "tags_pele": [
+      "Sensível",
+      "Irritada",
+      "Pós-procedimento",
+      "Hidratante"
+    ],
+    "link_estudo": "https://pt.wikipedia.org/wiki/Pantenol",
+    "uso": "Diurno e Noturno"
+  },
+  {
+    "nome_ativo": "Extrato de Centella Asiática (CICA)",
+    "beneficios": "Rico em madecassoside e asiaticoside, possui fortes propriedades anti-inflamatórias e cicatrizantes. Promove a síntese de colágeno tipo I e auxilia na recuperação da pele danificada e vermelha.",
+    "tipo_produto": "Cicatrizante / Anti-inflamatório",
+    "tags_pele": [
+      "Sensível",
+      "Vermelhidão",
+      "Rosácea",
+      "Barreira",
+      "Acneica"
+    ],
+    "link_estudo": "https://en.wikipedia.org/wiki/Centella_asiatica",
+    "uso": "Diurno e Noturno"
+  },
+  {
+    "nome_ativo": "Peptídeos Sinalizadores (Matrikinas)",
+    "beneficios": "Complexo de peptídeos que sinalizam às células para iniciar a reparação tecidual e aumentar a produção de macromoléculas estruturais como colágeno e elastina, reduzindo a profundidade das rugas.",
+    "tipo_produto": "Anti-idade / Sinalizador Celular",
+    "tags_pele": [
+      "Firmeza",
+      "Anti-idade",
+      "Rugas",
+      "Madura"
+    ],
+    "link_estudo": "https://en.wikipedia.org/wiki/Peptide_cosmetics",
+    "uso": "Diurno e Noturno"
+  },
+  {
+    "nome_ativo": "Lisado de Bifida Fermentado",
+    "beneficios": "Um ingrediente postbiótico que fortalece o microbioma da pele, melhora a função de barreira, acalma reações inflamatórias e ajuda na reparação celular contra danos ambientais.",
+    "tipo_produto": "Probiótico / Restaurador de Barreira",
+    "tags_pele": [
+      "Barreira",
+      "Sensível",
+      "Microbioma",
+      "Estressada"
+    ],
+    "link_estudo": "https://onlinelibrary.wiley.com/doi/abs/10.1111/jocd.13280",
+    "uso": "Diurno e Noturno"
+  },
+  {
+    "nome_ativo": "Astaxantina",
+    "beneficios": "Carotenoide de alto poder antioxidante, muito superior à Vitamina C e E. Protege a pele contra os danos dos radicais livres (UV e poluição), prevenindo o fotoenvelhecimento e melhorando a elasticidade.",
+    "tipo_produto": "Super Antioxidante / Carotenoide",
+    "tags_pele": [
+      "Proteção",
+      "Anti-idade",
+      "Dano Solar",
+      "Poluição"
+    ],
+    "link_estudo": "https://pt.wikipedia.org/wiki/Astaxantina",
+    "uso": "Diurno (Combinado com FPS)"
+  },
+  {
+    "nome_ativo": "Fitoesfingosina",
+    "beneficios": "Um lipídio naturalmente presente na pele que possui fortes propriedades antimicrobianas e anti-inflamatórias. Essencial para a integridade da barreira e eficaz na redução da acne e irritação.",
+    "tipo_produto": "Ceramida Precursora / Antimicrobiano",
+    "tags_pele": [
+      "Acneica",
+      "Barreira",
+      "Sensível",
+      "Vermelhidão"
+    ],
+    "link_estudo": "https://en.wikipedia.org/wiki/Phytosphingosine",
+    "uso": "Diurno e Noturno"
+  },
+  {
+    "nome_ativo": "Enzima de Papaína",
+    "beneficios": "Enzima derivada do mamão que oferece esfoliação química muito suave ao quebrar as ligações proteicas das células mortas. Ideal para peles sensíveis que precisam de renovação celular sem irritação mecânica ou ácida forte.",
+    "tipo_produto": "Esfoliante Enzimático",
+    "tags_pele": [
+      "Esfoliação Suave",
+      "Sensível",
+      "Opaca",
+      "Normal"
+    ],
+    "link_estudo": "https://en.wikipedia.org/wiki/Papain",
+    "uso": "Noturno (Uso 2-3 vezes por semana)"
+  },
+  {
+    "nome_ativo": "Zinco PCA",
+    "beneficios": "Combina o poder seborregulador do zinco com o PCA, um componente do Fator de Hidratação Natural. Controla a produção excessiva de óleo, possui ação antimicrobiana e minimiza a aparência dos poros.",
+    "tipo_produto": "Seborregulador / Anti-acne",
+    "tags_pele": [
+      "Oleosa",
+      "Acneica",
+      "Poros",
+      "Mista"
+    ],
+    "link_estudo": "https://en.wikipedia.org/wiki/Zinc_pyrrolidone_carboxylate",
+    "uso": "Diurno e Noturno"
+  }
+]
