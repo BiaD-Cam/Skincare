@@ -1,4 +1,5 @@
 Gerador e Portal de Ativos de Skincare (Gemini AI)
+
 Descrição do Projeto
 O Gerador e Portal de Ativos de Skincare é um projeto full-stack leve que automatiza a criação e o gerenciamento de uma base de conhecimento detalhada sobre ativos de cosméticos, tornando a informação acessível através de uma interface web simples e funcional. O projeto é dividido em duas partes: um script de automação em Node.js que usa a Gemini API para gerar o conteúdo, e uma aplicação front-end estática (HTML, CSS e JavaScript puro) que consome e exibe esses dados em um portal de busca. A ideia principal é usar Inteligência Artificial para expandir dinamicamente a base de dados (ativos.json) com informações únicas e estruturadas, e depois permitir que os usuários busquem esses ativos de forma rápida e intuitiva.
 
